@@ -11,7 +11,6 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) and Docker applicatio
 - **Blogs**: Fitness-related blog posts and articles
 - **Contact Page**: Information about the creators
 - **Responsive Design**: Works on desktop and mobile devices
-- **Dark/Light Theme**: Toggle between themes
 
 ## Tech Stack
 
